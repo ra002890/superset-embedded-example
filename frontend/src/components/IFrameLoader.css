@@ -1,0 +1,9 @@
+.IFrameLoader {
+    min-height: 75vh;
+    min-width: 80%;
+}
+
+#my-test-frame {
+    width: 100%;
+    height: 100%;
+}
